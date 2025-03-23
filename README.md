@@ -24,7 +24,7 @@ This program compares the performance of both sorting algorithms by measuring th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/merge-sort-vs-parallel-merge-sort.git
+    git clone https://github.com/dibakarghosh03/parallel-merge-sort.git
     ```
 
 2. Navigate to the project directory and compile:
